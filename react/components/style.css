@@ -1,0 +1,41 @@
+.contentBannerItem {
+  position: relative;
+  width: 100%;
+}
+
+.contentBannerItem_link {
+  width: 100%;
+}
+
+.contentBannerItem_img {
+  width: 100%;
+}
+
+
+
+/* CTA CONTAINER */
+
+.contentCTA {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* Content BTN CTA MoDAL */
+.ContentBtn_CTA {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+/* MOBILE */
+
+
+.contentCTA {
+  margin-bottom: 15%;
+
+}
